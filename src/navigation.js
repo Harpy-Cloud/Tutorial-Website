@@ -164,7 +164,7 @@ export const footerData = {
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/Harpy-Cloud/Tutorial-Website' },
   ],
   footNote: `
-    <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm bg-[url(~/assets/images/hero.png)]"></span>
+    <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm bg-[url(/hero.png)]"></span>
     Tutorial Website · All rights reserved.
   `,
 };
